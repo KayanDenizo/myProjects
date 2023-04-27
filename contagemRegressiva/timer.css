@@ -1,0 +1,10 @@
+#timer{
+	background-color: #666;
+	color: white;
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+	padding: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
